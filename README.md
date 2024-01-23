@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Software Engineering Student at <a href="software.unb.br">UnB</a></h3>
+<h3 align="center">Software Engineering Student at <a href="http://software.unb.br/">UnB</a></h3>
 
 - 🌱 I’m currently learning **JavaScript universe and Java**
 
