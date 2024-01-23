@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Software Engineering Student at UnB</h3>
+<h3 align="center">Software Engineering Student at <a href="software.unb.br">UnB</a></h3>
 
-- 🌱 I’m currently learning **JavaScript universe, Java**
+- 🌱 I’m currently learning **JavaScript universe and Java**
 
 - 📫 How to reach me **rafaelgomespereira123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rafael-pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-pereira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafael-pereira-3729b6295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-pereira-3729b6295" height="30" width="40" /></a>
 <a href="https://instagram.com/rafgpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafgpereira" height="30" width="40" /></a>
 </p>
 
