@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Software Engineering Student at UnB</h3>
 
+
+[![Rafael's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafgpereira&show_icons=true&theme=shadow_red)](https://github.com/rafgpereira/rafgpereira/main/README.md#apprentice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafgpereira&hide_progress=true&theme=shadow_red)
+
 - 🌱 I’m currently learning **JavaScript universe and Java**
 
 - 📫 How to reach me **rafaelgomespereira123@gmail.com**
