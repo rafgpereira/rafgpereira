@@ -7,9 +7,11 @@
 
 - ✅ Completed projects: [**ClubeForense**](https://clubeforense.up.railway.app/), [**EducaMinas**](https://educaminas.vercel.app)
 
+- 📫 How to reach me **rafaelgomespereira123@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mailto:rafaelgomespereira123@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://linkedin.com/in/rafgpereira" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/rafgpereira" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
