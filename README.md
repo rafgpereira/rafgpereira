@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Software Engineering Student at UnB</h3>
 
-- 🔭 I’m currently working on [EducaMinas](https://github.com/unb-mds/EducaMinas-2024.1)
-
 - 🌱 I’m currently learning **Web Development and Competitive Programming**
 
-- ✅ Completed project: [ClubeForense](https://clubeforense.up.railway.app/)
+- ✅ Completed projects: [**ClubeForense**](https://clubeforense.up.railway.app/), [**EducaMinas**](https://educaminas.vercel.app)
 
 - 📫 How to reach me **rafaelgomespereira123@gmail.com**
 
