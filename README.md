@@ -5,8 +5,6 @@
   
 - 🧑🏼‍💻 I'm currently working as a **Full Stack Developer**
 
-- ✅ Completed projects: [**ClubeForense**](https://clubeforense.up.railway.app/), [**EducaMinas**](https://educaminas.vercel.app)
-
 - 📫 How to reach me **rafaelgomespereira123@gmail.com**
 
 
